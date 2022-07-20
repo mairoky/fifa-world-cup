@@ -178,3 +178,48 @@
  }
 
  /* Blog End */
+ /* Footer Start */
+ footer {
+     background-color: #161616;
+ }
+
+ .footer-content {
+     padding: 100px 0;
+     text-align: center;
+ }
+
+ .footer-content h2 {
+     font-size: 50px;
+     font-weight: 600;
+     margin-bottom: 50px;
+     color: #fff;
+ }
+
+ .footer-content hr {
+     border: 1px solid rgba(255, 255, 255, 0.5);
+     margin-bottom: 40px;
+ }
+
+ .footer-content .footer-menu a {
+     text-decoration: none;
+     margin: 0 20px;
+     color: #B9B9B9;
+ }
+
+ .footer-content .social-icon {
+     margin-top: 30px;
+ }
+
+ .footer-content .social-icon li {
+     list-style: none;
+     display: inline;
+     margin: 0 20px;
+ }
+
+ .footer-content .social-icon li a {
+     text-decoration: none;
+     font-size: 30px;
+     color: #fff;
+ }
+
+ /* Footer End */
